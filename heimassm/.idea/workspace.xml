@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssmcszweb:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b54e2b4-d1c7-4d2e-a12a-7a82cbd1c490" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-csz-domain/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-csz-dao/target/" />
+    <ignored path="$PROJECT_DIR$/sss-csz-service/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-csz-web/target/" />
+    <ignored path="$PROJECT_DIR$/ssm-csz-util/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2010727883">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.33" value="3" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="java" value="8883" />
+          <entry key="jsp" value="854" />
+          <entry key="properties" value="14" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="1332" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8883" />
+          <entry key="JSP" value="854" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Properties" value="14" />
+          <entry key="XML" value="1332" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="css" value="1" />
+          <entry key="html" value="4" />
+          <entry key="java" value="222" />
+          <entry key="jsp" value="79" />
+          <entry key="properties" value="2" />
+          <entry key="tld" value="1" />
+          <entry key="xml" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="JAVA" value="222" />
+          <entry key="JSP" value="79" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="49" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/SysLogServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/LogAop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/resources/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/LogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.2.RELEASE/spring-aop-5.0.2.RELEASE-sources.jar!/org/springframework/aop/aspectj/AbstractAspectJAdvice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16650">
+              <caret line="624" selection-start-line="624" selection-end-line="624" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/RoleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.6.8/aspectjweaver-1.6.8-sources.jar!/org/aspectj/lang/JoinPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2130">
+              <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.6.8/aspectjweaver-1.6.8-sources.jar!/org/aspectj/lang/Signature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>${pageContext.request.}</find>
+      <find>taglibs</find>
+      <find>aop</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>${pageContext.request.contextPath}</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/orders-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/MemberDao.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/TravellerDao.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/OrdersService.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/OrdersDao.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/success.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/success_target.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/fail.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-domain/src/main/java/com/csz/domain/Permission.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-domain/src/main/java/com/csz/domain/UserInfo.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/user-show.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-util/src/main/java/com/csz/util/BCryptPasswordEncoderUtil.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-domain/src/main/java/com/csz/domain/Role.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/user-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/UserInfoDao.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/user-add-role.jsp" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/UserService.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/role-show.jsp" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/PermisssionService.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/permission-add.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/PermissionDao.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/PermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/role-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/PermissionController.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/RoleService.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/PermissionService.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/role-add-permission.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/RoleDao.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/permission-list.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/header.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/aside.jsp" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/UserInfoController.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/SysLogService.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/SysLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/SysLogDao.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-domain/src/main/java/com/csz/domain/SysLog.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/OrdersController.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/LogController.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/LogAop1.java" />
+        <option value="$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/LogAop.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/LogAop.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Desktop\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="heima-ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="heima-ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm-csz-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm-csz-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm-csz-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm-csz-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ssm-csz-web/src/main/webapp/plugins/bootstrap-markdown/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="165" />
+    <option name="y" value="20" />
+    <option name="width" value="1640" />
+    <option name="height" value="1009" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm-csz-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="sss-csz-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="sss-csz-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="sss-csz-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="sss-csz-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="sss-csz-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heimassm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heimassm" type="462c0819:PsiDirectoryNode" />
+              <item name="sss-csz-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573221393281" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../heima_ssm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\heimassm\ssm-csz-web\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.csz.controller" />
+      <recent name="com.csz.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\heimassm\ssm-csz-web\src\main\webapp\pages" />
+      <recent name="D:\Desktop\heimassm\ssm-csz-web\src\main\webapp" />
+      <recent name="D:\Desktop\heimassm\ssm-csz-web\src\main\resources" />
+      <recent name="D:\Desktop\heimassm\ssm-csz-web\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\Desktop\heimassm\ssm-csz-web\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.heima">
+    <configuration name="BCryptPasswordEncoderUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.csz.util.BCryptPasswordEncoderUtil" />
+      <module name="ssmcszutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csz.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Format" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.csz.util.Format" />
+      <module name="ssmcszutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csz.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersDaoImpl.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmcszweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csz.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.csz.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.csz.dao.OrdersDaoImpl" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heima" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/ssm-csz-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ssm-csz-dao [install:install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/ssm-csz-dao" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="heima" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssmcszweb:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_heimassm" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="18516" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssmcszweb:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.ssm-csz-dao [install:install]" />
+      <item itemvalue="Maven.heima" />
+      <item itemvalue="Tomcat Server.heima" />
+      <item itemvalue="Application.Format" />
+      <item itemvalue="JUnit.OrdersDaoImpl.findAll" />
+      <item itemvalue="Application.BCryptPasswordEncoderUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BCryptPasswordEncoderUtil" />
+        <item itemvalue="JUnit.OrdersDaoImpl.findAll" />
+        <item itemvalue="Application.Format" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b54e2b4-d1c7-4d2e-a12a-7a82cbd1c490" name="Default Changelist" comment="" />
+      <created>1572682602393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572682602393</updated>
+      <workItem from="1572682609194" duration="7336000" />
+      <workItem from="1572744089164" duration="3915000" />
+      <workItem from="1572748272819" duration="4624000" />
+      <workItem from="1572771914245" duration="8351000" />
+      <workItem from="1572825730837" duration="10678000" />
+      <workItem from="1572925268199" duration="2782000" />
+      <workItem from="1572944960703" duration="11054000" />
+      <workItem from="1573044633323" duration="146000" />
+      <workItem from="1573046840333" duration="98000" />
+      <workItem from="1573085454903" duration="22954000" />
+      <workItem from="1573173134864" duration="8039000" />
+      <workItem from="1573183758595" duration="599000" />
+      <workItem from="1573208015703" duration="11276000" />
+      <workItem from="1573305441567" duration="1643000" />
+      <workItem from="1573348173650" duration="919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94414000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="132" y="16" width="1312" height="807" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6817539" visible="true" weight="0.3125997" />
+      <window_info id="Structure" order="1" sideWeight="0.3182461" side_tool="true" weight="0.20308311" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.12759644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3281471" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.11394102" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/user-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="139" column="38" lean-forward="true" selection-start-line="139" selection-start-column="38" selection-end-line="139" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/user-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="150" column="64" lean-forward="true" selection-start-line="150" selection-start-column="64" selection-end-line="150" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/UserInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="49" column="65" lean-forward="true" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/user-add-role.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="156" column="128" lean-forward="true" selection-start-line="156" selection-start-column="128" selection-end-line="156" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/annotations/Results.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/annotations/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/annotations/ResultMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-domain/src/main/java/com/csz/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/role-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="154" column="40" lean-forward="true" selection-start-line="154" selection-start-column="40" selection-end-line="154" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/permission-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="69" column="53" lean-forward="true" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/role-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="153" column="121" selection-start-line="153" selection-start-column="97" selection-end-line="153" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="39" column="68" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/role-add-permission.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="42" column="65" lean-forward="true" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/permission-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="145" column="90" lean-forward="true" selection-start-line="145" selection-start-column="90" selection-end-line="145" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-domain/src/main/java/com/csz/domain/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/PermissionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/PermissionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/PermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="51" column="77" lean-forward="true" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/user-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="155" column="74" lean-forward="true" selection-start-line="154" selection-start-column="48" selection-end-line="155" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/fail.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/【已整理】嘿马+传智播客VIP就业课程/程序猿课堂_10-企业权限管理系统(5)/05-SSMAOP日志/代码/heima_ssm/heima_ssm_web/src/main/java/com/itheima/ssm/controller/OrdersController(1).java" />
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="77" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="620" column="36" selection-start-line="620" selection-start-column="36" selection-end-line="620" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="3411" column="25" lean-forward="true" selection-start-line="3411" selection-start-column="25" selection-end-line="3411" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/SysLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="84" column="85" lean-forward="true" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-dao/src/main/java/com/csz/dao/SysLogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-domain/src/main/java/com/csz/domain/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="88" column="36" lean-forward="true" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/PermissionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/aside.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="53" column="79" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/pages/syslog-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="145" column="59" selection-start-line="145" selection-start-column="52" selection-end-line="145" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/OrdersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/LogAop.java" />
+    <entry file="file://$PROJECT_DIR$/sss-csz-service/src/main/java/com/csz/service/impl/SysLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/LogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.2.RELEASE/spring-aop-5.0.2.RELEASE-sources.jar!/org/springframework/aop/aspectj/AbstractAspectJAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16650">
+          <caret line="624" selection-start-line="624" selection-end-line="624" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.6.8/aspectjweaver-1.6.8-sources.jar!/org/aspectj/lang/JoinPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.6.8/aspectjweaver-1.6.8-sources.jar!/org/aspectj/lang/Signature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm-csz-web/src/main/java/com/csz/controller/LogAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ssmcszweb:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>heimassm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
